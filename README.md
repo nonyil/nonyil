@@ -67,9 +67,13 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
 src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 
 ### Badges
+<p>My GitHub Stats</p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api?username=nonyil&theme=dark)](https://github.com/nonyil/github-readme-stats) &ensp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonyil&theme=dark)](https://github.com/nonyil/github-readme-stats)
+<a href="http://www.github.com/nonyil"><img src="https://github-readme-stats.vercel.app/api?username=nonyil&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="Igor's GitHub stats" /></a>
+
+<a href="http://www.github.com/nonyil"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nonyil&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/nonyil" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonyil&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
