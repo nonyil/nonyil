@@ -1,4 +1,4 @@
-### ヤッホー My 👋 My name is Igor Brendow [ Nóny ]
+### ヤッホー My 👋 My name is Igor Brendow [ Nóny ] <br>
 
 
 
@@ -13,10 +13,10 @@ Web Developer
 ==============
 
 
+<br>
 
 
-
-**Igor Brendow** é apenas um Brasileiro fãn da cultura japonesa aprendendo programação.
+**Igor Brendow** é apenas um Brasileiro fãn da cultura japonesa aprendendo programação. <br><br>
 
 Some information about me:
 
@@ -24,6 +24,7 @@ Some information about me:
 * ✉️  You can contact me at [igbrendow@gmail.com]
 * 🧠  I'm learning TypeScript, Nest, MongoDb among others.
 * 🤝  I'm open to collaboration on Back-end developments.
+
 
 <a href="https://github.com/nonyil" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nonyil?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> &ensp;
