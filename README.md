@@ -1,4 +1,4 @@
-### ヤッホー My 👋 My name is Igor Brendow [ Nóny ] <br>
+### ヤッホー 👋 My name is Igor Brendow [ Nóny ] <br>
 
 
 
